@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Prev</name>
+   <tag></tag>
+   <elementGuidId>779f98e2-e1dc-4d07-8924-13217342f7b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ui-datepicker-div']/div/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ui-icon.ui-icon-circle-triangle-w</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ca1b2f49-fd1d-490f-bd9d-51befdd91722</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-icon ui-icon-circle-triangle-w</value>
+      <webElementGuid>420cddbd-d517-43f8-ba5c-d4aed0aef58f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Prev</value>
+      <webElementGuid>e610e370-6e5b-4f7c-9db1-bde3dcdb75a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-datepicker-div&quot;)/div[@class=&quot;ui-datepicker-header ui-widget-header ui-helper-clearfix ui-corner-all&quot;]/a[@class=&quot;ui-datepicker-prev ui-corner-all ui-state-hover ui-datepicker-prev-hover&quot;]/span[@class=&quot;ui-icon ui-icon-circle-triangle-w&quot;]</value>
+      <webElementGuid>282466b2-d728-4516-b85b-7c3d58be750f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ui-datepicker-div']/div/a/span</value>
+      <webElementGuid>98e8c487-24a0-475d-a6cd-235e5cef25f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keep me logged in'])[1]/following::span[1]</value>
+      <webElementGuid>a6ebe37f-7587-465c-a098-7169c807be73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::span[3]</value>
+      <webElementGuid>28cc984b-aeca-4ba2-a1ab-ec9b7633adaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/preceding::span[1]</value>
+      <webElementGuid>931fc80c-26b3-4d50-8752-9344b29c3762</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='January'])[1]/preceding::span[2]</value>
+      <webElementGuid>5a12082f-c318-4980-8e57-e352ac85f6bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Prev']/parent::*</value>
+      <webElementGuid>513cb7fc-f703-4822-9437-8d2735c67067</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/span</value>
+      <webElementGuid>ba83c567-5258-4959-ac67-bc41ed885554</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Prev' or . = 'Prev')]</value>
+      <webElementGuid>e4580938-c4f3-44f4-aac4-634561856ded</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
